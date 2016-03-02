@@ -1,0 +1,3367 @@
+{
+	"room_box": [{
+		"room": 1,
+		"goods": 44,
+		"round_box": [{
+			"meet_rounds": 3,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 258,
+				"reward_max": 388,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 2,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 6,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 358,
+				"reward_max": 488,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 3,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 458,
+				"reward_max": 588,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 4,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 558,
+				"reward_max": 688,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 5,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 658,
+				"reward_max": 788,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 6,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 6,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 2,
+		"goods": 15,
+		"round_box": [{
+			"meet_rounds": 3,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 458,
+				"reward_max": 588,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 6,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 658,
+				"reward_max": 788,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 858,
+				"reward_max": 988,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1058,
+				"reward_max": 1188,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1258,
+				"reward_max": 1388,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 3,
+		"goods": 15,
+		"round_box": [{
+			"meet_rounds": 5,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 758,
+				"reward_max": 888,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 2,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1058,
+				"reward_max": 1188,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 3,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1358,
+				"reward_max": 1488,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 4,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 12,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1658,
+				"reward_max": 1788,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 5,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1958,
+				"reward_max": 2088,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 6,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 4,
+		"goods": 15,
+		"round_box": [{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 6,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 3,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 7,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 4,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 12,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 8,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 5,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 9,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 6,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 20,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 10,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 7,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 61,
+		"goods": 44,
+		"round_box": [{
+			"meet_rounds": 3,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 258,
+				"reward_max": 388,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 2,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 6,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 358,
+				"reward_max": 488,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 3,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 458,
+				"reward_max": 588,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 4,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 558,
+				"reward_max": 688,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 5,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 658,
+				"reward_max": 788,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 6,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 2,
+				"reward_max": 6,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 62,
+		"goods": 15,
+		"round_box": [{
+			"meet_rounds": 3,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 458,
+				"reward_max": 588,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 6,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 658,
+				"reward_max": 788,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 858,
+				"reward_max": 988,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1058,
+				"reward_max": 1188,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1258,
+				"reward_max": 1388,
+				"first_box_rate": 0.6995,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.1,
+				"sec_box_rate": 0.1,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0005,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 63,
+		"goods": 15,
+		"round_box": [{
+			"meet_rounds": 3,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 758,
+				"reward_max": 888,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 2,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 6,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1058,
+				"reward_max": 1188,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 3,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1358,
+				"reward_max": 1488,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 4,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1658,
+				"reward_max": 1788,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 5,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1958,
+				"reward_max": 2088,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 6,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 64,
+		"goods": 15,
+		"round_box": [{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 6,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 3,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 7,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 4,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 12,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 8,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 5,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 15,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 9,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 6,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 20,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 4,
+				"reward_max": 10,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.3,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 7,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 81,
+		"goods": 44,
+		"round_box": [{
+			"meet_rounds": 2,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 258,
+				"reward_max": 388,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 3,
+				"reward_max": 3,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 5,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 358,
+				"reward_max": 488,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 3,
+				"reward_max": 4,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 458,
+				"reward_max": 588,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 3,
+				"reward_max": 5,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 558,
+				"reward_max": 688,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 3,
+				"reward_max": 6,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 12,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 658,
+				"reward_max": 788,
+				"first_box_rate": 0.6,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 6,
+				"first_box_rate": 0.198,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1012,
+				"prop_name": "欢喜券",
+				"reward_icon": "GUI/cut/public/exchange_ticket.png",
+				"reward_min": 3,
+				"reward_max": 7,
+				"first_box_rate": 0.2,
+				"sec_box_rate": 0.2,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 30000,
+				"reward_max": 30000,
+				"first_box_rate": 0.002,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 48000,
+				"reward_max": 60000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	},
+	{
+		"room": 82,
+		"goods": 15,
+		"round_box": [{
+			"meet_rounds": 3,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 758,
+				"reward_max": 888,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 1,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 2,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 5,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1058,
+				"reward_max": 1188,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 2,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 3,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 8,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1358,
+				"reward_max": 1488,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 3,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 4,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 10,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1658,
+				"reward_max": 1788,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 4,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 5,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		},
+		{
+			"meet_rounds": 12,
+			"boxes": [{
+				"box_id": 1,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 1958,
+				"reward_max": 2088,
+				"first_box_rate": 0.35,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 2,
+				"box_type": 1,
+				"prop_id": 1013,
+				"prop_name": "看底牌",
+				"reward_icon": "GUI/cut/public/KanDiPai.png",
+				"reward_min": 1,
+				"reward_max": 5,
+				"first_box_rate": 0.5,
+				"sec_box_rate": 0.08,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 3,
+				"box_type": 1,
+				"prop_id": 1014,
+				"prop_name": "话费券",
+				"reward_icon": "GUI/cut/public/huafei_icon.png",
+				"reward_min": 2,
+				"reward_max": 6,
+				"first_box_rate": 0.15,
+				"sec_box_rate": 0.08,
+				"reduce_rule": [{
+					"prop_id": 1014,
+					"limit_num": 1500,
+					"rate": 0.5
+				},
+				{
+					"prop_id": 0,
+					"limit_num": 2000000,
+					"rate": 0.5
+				}]
+			},
+			{
+				"box_id": 4,
+				"box_type": 2,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 52500,
+				"reward_max": 52500,
+				"first_box_rate": 0.0001,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			},
+			{
+				"box_id": 5,
+				"box_type": 1,
+				"prop_id": 0,
+				"prop_name": "金豆",
+				"reward_icon": "GUI/cut/public/shop_money3.png",
+				"reward_min": 84000,
+				"reward_max": 105000,
+				"first_box_rate": 0,
+				"sec_box_rate": 0,
+				"reduce_rule": null
+			}]
+		}]
+	}]
+}
