@@ -3,7 +3,6 @@ package main
 
 import (
 	"fmt"
-	"sort"
 )
 
 func main() {
@@ -17,6 +16,14 @@ func main() {
 		{3, Spade},
 	}
 
-	sort.Sort(GameCardSet(arr))
+	card_set := GameCardSet(arr)
+	card_set.Sort()
 	fmt.Println(arr)
+	arr = arr[0:0]
+	fmt.Println(arr)
+
+	ha := make(map[int]int)
+	ha[1] = 1
+	ha[2] = 1
+	fmt.Println(len(ha))
 }
