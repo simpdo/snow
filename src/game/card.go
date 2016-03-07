@@ -13,29 +13,26 @@ const (
 	CardBase   = 13
 	BlackJoker = 53
 	RedJoker   = 54
+)
 
+const (
 	//牌型
 	CARD_ILLEGAL = iota
-
-	CARD_SINGLE
+	CARD_SINGLE  //单张牌型
 	CARD_SINGLE_STRAIGHT
-
-	CARD_PAIR
+	CARD_PAIR = 3 //一对牌型
 	CARD_PAIR_STRAIGHT
-
-	CARD_THREE
+	CARD_THREE = 5 //三张牌型
 	CARD_THREE_WITH_SINGLE
 	CARD_THREE_WITH_PAIR
-
-	CARD_PLANE
+	CARD_PLANE = 8 //飞机牌型
 	CARD_PLANE_WITH_SINGLE
 	CARD_PLANE_WITH_PAIR
-
-	CARD_BOMB
+	CARD_BOMB = 11 //四张牌型
 	CARD_BOMB_WITH_SINGLE
 	CARD_BOMB_WITH_PAIR
 
-	CARD_ROCKET
+	CARD_ROCKET = 14 //火箭
 )
 
 type GameCard struct {
@@ -134,7 +131,68 @@ func (cards GameCardSet) Type() int {
 	}
 
 	type2cards := cards.Separate()
-	if type2cards[]
+	type_size := len(type2cards)
+	if _, ok := type2cards[CARD_BOMB]; ok {
+		if GameCardSet(type2cards[CARD_BOMB]).isSequent() {
+			return CARD_ILLEGAL //4444,5555非法，不算飞机或炸加一对
+		}
+
+		if 2 == type_size {
+			if _, ok := type2cards[CARD_PAIR]; ok {
+				return CARD_BOMB_WITH_PAIR
+			}
+
+			if _, ok := type2cards[CARD_SINGLE]; ok {
+				return CARD_BOMB_WITH_SINGLE
+			}
+		}
+	}
+
+	single_len := len(type2cards[CARD_SINGLE])
+	pair_len := len(type2cards[CARD_PAIR])
+	three_len := len(type2cards[CARD_THREE])
+	bomb_len := len(type2cards[CARD_BOMB])
+
+	if _, ok := type2cards[CARD_THREE]; ok {
+		with_single_len := single_len + pair_len*2 + bomb_len*4
+		with_pair_len := pair_len + bomb_len*2
+		if GameCardSet(type2cards[CARD_THREE]).isSequent() { //飞机
+			if 1 == type_size {
+				return CARD_PLANE //裸飞
+			}
+
+			if with_single_len == three_len {
+				return CARD_PLANE_WITH_SINGLE
+			}
+
+			if with_pair_len == three_len {
+				return CARD_PLANE_WITH_PAIR
+			}
+		} else {
+			if 1 == three_len {
+				if single_len == three_len {
+					return CARD_THREE_WITH_SINGLE
+				}
+
+				if pair_len == three_len {
+					return CARD_THREE_WITH_PAIR
+				}
+				return CARD_ILLEGAL
+			}
+		}
+	}
+
+	if _, ok := type2cards[CARD_PAIR]; ok {
+		if pair_len >= 3 && GameCardSet(type2cards[CARD_PAIR]).isSequent() {
+			return CARD_PAIR_STRAIGHT
+		}
+	}
+
+	if _, ok := type2cards[CARD_SINGLE]; ok {
+		if single_len >= 5 && GameCardSet(type2cards[CARD_SINGLE]).isSequent() {
+			return CARD_SINGLE_STRAIGHT
+		}
+	}
 
 	return CARD_ILLEGAL
 }
@@ -193,8 +251,31 @@ func (cards GameCardSet) isBomb() bool {
 	return false
 }
 
-func (cards GameCardSet) Separate() map[int][]GameCardSet {
-	type2cards := make(map[int][]GameCardSet)
+//是否连续
+func (cards GameCardSet) isSequent() bool {
+	if cards.Len() == 1 {
+		return false
+	}
+
+	size := cards.Len()
+	arr := []GameCard(cards)
+
+	if arr[size-1].Point == 1 {
+		arr[size-1].Point += CardBase
+	}
+
+	steps := arr[size-1].Point - arr[0].Point + 1
+	if int(steps) != size {
+		return false
+	}
+
+	arr[size-1].Point %= CardBase
+
+	return true
+}
+
+func (cards GameCardSet) Separate() map[int][]GameCard {
+	type2cards := make(map[int][]GameCard)
 
 	arr := []GameCard(cards)
 	tmp := arr[0:1]
@@ -206,15 +287,26 @@ func (cards GameCardSet) Separate() map[int][]GameCardSet {
 
 		switch len(tmp) {
 		case 1:
-			type2cards[CARD_SINGLE] = append(type2cards[1], tmp)
+			type2cards[CARD_SINGLE] = append(type2cards[CARD_SINGLE], tmp[0])
 		case 2:
-			type2cards[CARD_PAIR] = append(type2cards[2], tmp)
+			type2cards[CARD_PAIR] = append(type2cards[CARD_PAIR], tmp[0])
 		case 3:
-			type2cards[CARD_THREE] = append(type2cards[3], tmp)
+			type2cards[CARD_THREE] = append(type2cards[CARD_THREE], tmp[0])
 		case 4:
-			type2cards[CARD_BOMB] = append(type2cards[4], tmp)
+			type2cards[CARD_BOMB] = append(type2cards[CARD_BOMB], tmp[0])
 		}
-		tmp = tmp[0:0]
+		tmp = arr[i : i+1]
+	}
+
+	switch len(tmp) {
+	case 1:
+		type2cards[CARD_SINGLE] = append(type2cards[CARD_SINGLE], tmp[0])
+	case 2:
+		type2cards[CARD_PAIR] = append(type2cards[CARD_PAIR], tmp[0])
+	case 3:
+		type2cards[CARD_THREE] = append(type2cards[CARD_THREE], tmp[0])
+	case 4:
+		type2cards[CARD_BOMB] = append(type2cards[CARD_BOMB], tmp[0])
 	}
 
 	return type2cards
