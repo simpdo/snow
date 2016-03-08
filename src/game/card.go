@@ -133,19 +133,23 @@ func (cards GameCardSet) Type() int {
 	type2cards := cards.Separate()
 	type_size := len(type2cards)
 	if _, ok := type2cards[CARD_BOMB]; ok {
-		if GameCardSet(type2cards[CARD_BOMB]).isSequent() {
-			return CARD_ILLEGAL //4444,5555非法，不算飞机或炸加一对
-		}
-
 		if 2 == type_size {
-			if _, ok := type2cards[CARD_PAIR]; ok {
+			if _, ok := type2cards[CARD_PAIR]; ok && len(type2cards[CARD_PAIR]) == 2 {
 				return CARD_BOMB_WITH_PAIR
 			}
 
-			if _, ok := type2cards[CARD_SINGLE]; ok {
+			if _, ok := type2cards[CARD_SINGLE]; ok && len(type2cards[CARD_SINGLE]) == 2 {
 				return CARD_BOMB_WITH_SINGLE
 			}
+		} else if 3 == type_size {
+			cards := []GameCard(type2cards[CARD_BOMB])
+			cards = append(cards, []GameCard(type2cards[CARD_THREE])...)
+			if GameCardSet(cards).isSequent() {
+
+			}
 		}
+
+		return CARD_ILLEGAL
 	}
 
 	single_len := len(type2cards[CARD_SINGLE])
@@ -156,6 +160,7 @@ func (cards GameCardSet) Type() int {
 	if _, ok := type2cards[CARD_THREE]; ok {
 		with_single_len := single_len + pair_len*2 + bomb_len*4
 		with_pair_len := pair_len + bomb_len*2
+
 		if GameCardSet(type2cards[CARD_THREE]).isSequent() { //飞机
 			if 1 == type_size {
 				return CARD_PLANE //裸飞
